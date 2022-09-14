@@ -1,7 +1,5 @@
->Dockerfile
 
-
-<h2>Storage for dockerfiles</h2>
+<h2>Dockerfiles Storage</h2>
 
 Rename desired Dockerfile to Dockerfile and
 use this to build the new image
